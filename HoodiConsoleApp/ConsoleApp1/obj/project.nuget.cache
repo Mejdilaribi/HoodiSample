@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4a9SniS4WDu1WV8+q1MMTyj+Ej5p5mUhJGqr0pseNmoHhKZZoszgZbfF+qID0dbddswHwICZwnl5iJKH/6ij2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mlaribi\\Desktop\\Hoodi\\HoodiConsoleApp\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mlaribi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
